@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/IntugineTask/static/css/main.29656757.chunk.css",
+    "main.js": "/IntugineTask/static/js/main.fd6d4906.chunk.js",
+    "main.js.map": "/IntugineTask/static/js/main.fd6d4906.chunk.js.map",
+    "runtime-main.js": "/IntugineTask/static/js/runtime-main.5af4c943.js",
+    "runtime-main.js.map": "/IntugineTask/static/js/runtime-main.5af4c943.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/IntugineTask/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e94c83c4.chunk.js": "/IntugineTask/static/js/2.e94c83c4.chunk.js",
+    "static/js/2.e94c83c4.chunk.js.map": "/IntugineTask/static/js/2.e94c83c4.chunk.js.map",
+    "index.html": "/IntugineTask/index.html",
+    "precache-manifest.f58d5bf4a3c9e94658fcfdec0e049e15.js": "/IntugineTask/precache-manifest.f58d5bf4a3c9e94658fcfdec0e049e15.js",
+    "service-worker.js": "/IntugineTask/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/IntugineTask/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.29656757.chunk.css.map": "/IntugineTask/static/css/main.29656757.chunk.css.map",
+    "static/js/2.e94c83c4.chunk.js.LICENSE": "/IntugineTask/static/js/2.e94c83c4.chunk.js.LICENSE",
+    "static/media/destination.svg": "/IntugineTask/static/media/destination.85f9fdcc.svg",
+    "static/media/logo.svg": "/IntugineTask/static/media/logo.877653ae.svg",
+    "static/media/profile.svg": "/IntugineTask/static/media/profile.52b703a8.svg",
+    "static/media/warehouse.svg": "/IntugineTask/static/media/warehouse.1f5bfd3e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af4c943.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e94c83c4.chunk.js",
+    "static/css/main.29656757.chunk.css",
+    "static/js/main.fd6d4906.chunk.js"
+  ]
+}
