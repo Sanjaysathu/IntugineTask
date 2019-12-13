@@ -1,0 +1,23 @@
+th{
+    padding: 15px 0px;
+    font-size: x-small;
+    color: rgb(211, 202, 202);
+    position: sticky;
+    top:0px;
+    background:white;
+}
+
+tr:hover{
+    cursor: pointer;
+    background: rgb(209, 221, 241);
+}
+
+td{
+    padding: 10px 10px;
+    font-size: x-small;
+    font-weight: bold;
+}
+
+th,td{
+    width:100px;
+}
