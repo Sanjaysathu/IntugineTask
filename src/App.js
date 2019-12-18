@@ -57,7 +57,9 @@ function App() {
       }}
   }
   var selected = (a) =>{
+    document.getElementsByTagName("tr")[tk+Number(1)].style.backgroundColor="";
     setTk(a);
+    document.getElementsByTagName("tr")[a+Number(1)].style.backgroundColor="rgb(211, 215, 215)";
   }
 
   for(var t of data){
