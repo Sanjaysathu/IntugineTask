@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e9bf00e94497f658b0e88b5b5d52939",
+    "revision": "9958ec7b051a919c8000dbd3d81fc4da",
     "url": "/IntugineTask/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IntugineTask/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "e9b7f72880f255821360",
+    "revision": "11463d71a4cc2856949e",
     "url": "/IntugineTask/static/css/main.29656757.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IntugineTask/static/js/2.e94c83c4.chunk.js.LICENSE"
   },
   {
-    "revision": "e9b7f72880f255821360",
-    "url": "/IntugineTask/static/js/main.fd6d4906.chunk.js"
+    "revision": "11463d71a4cc2856949e",
+    "url": "/IntugineTask/static/js/main.3cbb9054.chunk.js"
   },
   {
     "revision": "7ab964b7857b471e27b7",

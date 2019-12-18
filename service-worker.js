@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IntugineTask/precache-manifest.1c1cf3cda7dbf18c38efb511cc74f6f4.js"
+  "/IntugineTask/precache-manifest.32ff82eb6e250b8891bd2a46eba28304.js"
 );
 
 self.addEventListener('message', (event) => {
