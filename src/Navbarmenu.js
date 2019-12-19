@@ -1,6 +1,5 @@
 import React from 'react';
 import {Navbar,Nav} from 'react-bootstrap';
-import logo from './logo.svg';
 import profile from './profile.svg';
 
 const Navbarmenu = () =>{
@@ -20,7 +19,7 @@ const Navbarmenu = () =>{
     return(
         <div>
             <Navbar bg="light" variant="light">
-                <Navbar.Brand href=""><img src={logo} alt=""/> Intugine</Navbar.Brand>
+                <Navbar.Brand href="">Company Name</Navbar.Brand>
                 <Nav className="ml-auto">
                 <Nav.Link href="" className="mx-2">Home</Nav.Link>
                 <Nav.Link href="" className="mx-2">Brands</Nav.Link>
