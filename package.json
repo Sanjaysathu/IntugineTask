@@ -1,6 +1,6 @@
 {
-  "name": "intuginetask",
-  "homepage": "https://Sanjaysathu.github.io/IntugineTask",
+  "name": "shipmentdashboard",
+  "homepage": "https://Sanjaysathu.github.io/ShipmentDashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
