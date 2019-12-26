@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/IntugineTask/static/css/main.29656757.chunk.css",
-    "main.js": "/IntugineTask/static/js/main.1096a030.chunk.js",
-    "main.js.map": "/IntugineTask/static/js/main.1096a030.chunk.js.map",
-    "runtime-main.js": "/IntugineTask/static/js/runtime-main.5af4c943.js",
-    "runtime-main.js.map": "/IntugineTask/static/js/runtime-main.5af4c943.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/IntugineTask/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.9628507f.chunk.js": "/IntugineTask/static/js/2.9628507f.chunk.js",
-    "static/js/2.9628507f.chunk.js.map": "/IntugineTask/static/js/2.9628507f.chunk.js.map",
-    "index.html": "/IntugineTask/index.html",
-    "precache-manifest.2f232f6ce7eded04de4b379febf2b106.js": "/IntugineTask/precache-manifest.2f232f6ce7eded04de4b379febf2b106.js",
-    "service-worker.js": "/IntugineTask/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/IntugineTask/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.29656757.chunk.css.map": "/IntugineTask/static/css/main.29656757.chunk.css.map",
-    "static/js/2.9628507f.chunk.js.LICENSE": "/IntugineTask/static/js/2.9628507f.chunk.js.LICENSE",
-    "static/media/destination.svg": "/IntugineTask/static/media/destination.85f9fdcc.svg",
-    "static/media/profile.svg": "/IntugineTask/static/media/profile.52b703a8.svg",
-    "static/media/warehouse.svg": "/IntugineTask/static/media/warehouse.1f5bfd3e.svg"
+    "main.css": "/ShipmentDashboard/static/css/main.9c4ff9f0.chunk.css",
+    "main.js": "/ShipmentDashboard/static/js/main.5f200316.chunk.js",
+    "main.js.map": "/ShipmentDashboard/static/js/main.5f200316.chunk.js.map",
+    "runtime-main.js": "/ShipmentDashboard/static/js/runtime-main.24536650.js",
+    "runtime-main.js.map": "/ShipmentDashboard/static/js/runtime-main.24536650.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/ShipmentDashboard/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.4ce69ad4.chunk.js": "/ShipmentDashboard/static/js/2.4ce69ad4.chunk.js",
+    "static/js/2.4ce69ad4.chunk.js.map": "/ShipmentDashboard/static/js/2.4ce69ad4.chunk.js.map",
+    "index.html": "/ShipmentDashboard/index.html",
+    "precache-manifest.ba0252dfac0fdddc35750b13bdce0581.js": "/ShipmentDashboard/precache-manifest.ba0252dfac0fdddc35750b13bdce0581.js",
+    "service-worker.js": "/ShipmentDashboard/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/ShipmentDashboard/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.9c4ff9f0.chunk.css.map": "/ShipmentDashboard/static/css/main.9c4ff9f0.chunk.css.map",
+    "static/js/2.4ce69ad4.chunk.js.LICENSE": "/ShipmentDashboard/static/js/2.4ce69ad4.chunk.js.LICENSE",
+    "static/media/destination.svg": "/ShipmentDashboard/static/media/destination.85f9fdcc.svg",
+    "static/media/profile.svg": "/ShipmentDashboard/static/media/profile.52b703a8.svg",
+    "static/media/warehouse.svg": "/ShipmentDashboard/static/media/warehouse.1f5bfd3e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5af4c943.js",
+    "static/js/runtime-main.24536650.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.9628507f.chunk.js",
-    "static/css/main.29656757.chunk.css",
-    "static/js/main.1096a030.chunk.js"
+    "static/js/2.4ce69ad4.chunk.js",
+    "static/css/main.9c4ff9f0.chunk.css",
+    "static/js/main.5f200316.chunk.js"
   ]
 }
